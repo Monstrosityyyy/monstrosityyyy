@@ -1,7 +1,15 @@
 <br clear="both">
-<h1 align="center">Hey 👋What's Up?</h1>
+
+<h1 align="center">Love playing games and coding,  Preferably in python!!  Follower of Christ ✞</h1>
+
+###
+
 <br clear="both">
+
 <h3 align="center">Tools/Programs/Launguages I Use 👇</h3>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -20,22 +28,24 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">My Socials  👇</h3>
 
 ###
 
 <div align="center">
   <a href="mailto:github@msxa.se" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=0A48F4&logoColor=white&labelColor=FF1920&style=flat" height="80" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=0A48F4&logoColor=white&labelColor=FF1920&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://x.com/Hannes_Behmer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%F0%9D%95%8F&logo=twitter&label=&color=3B3B3B&logoColor=white&labelColor=&style=flat" height="80" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=%F0%9D%95%8F&logo=twitter&label=&color=3B3B3B&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
   <a href="https://guns.lol/monstrosityyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Guns.LOL&logo=linkedin&label=&color=DAA1FA&logoColor=white&labelColor=&style=flat" height="80" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Guns.LOL&logo=linkedin&label=&color=DAA1FA&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.tiktok.com/@..m..o..n..s..t..e..r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=itch&label=&color=130409&logoColor=white&labelColor=&style=flat" height="80" alt="itch logo"  />
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=itch&label=&color=130409&logoColor=white&labelColor=&style=flat" height="30" alt="itch logo"  />
   </a>
 </div>
 
@@ -45,11 +55,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monstrosityyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=monstrosityyyy&theme=iceberg" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=monstrosityyyy&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=monstrosityyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monstrosityyyy/monstrosityyyy/output/pacman-contribution-graph-dark.svg">
