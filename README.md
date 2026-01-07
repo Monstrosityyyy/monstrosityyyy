@@ -34,16 +34,16 @@
 
 <div align="center">
   <a href="mailto:github@msxa.se" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=0A48F4&logoColor=white&labelColor=FF1920&style=flat" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=0A48F4&logoColor=white&labelColor=FF1920&style=flat" height="80" alt="gmail logo"  />
   </a>
   <a href="https://x.com/Hannes_Behmer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%F0%9D%95%8F&logo=twitter&label=&color=3B3B3B&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=%F0%9D%95%8F&logo=twitter&label=&color=3B3B3B&logoColor=white&labelColor=&style=flat" height="80" alt="twitter logo"  />
   </a>
   <a href="https://guns.lol/monstrosityyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Guns.LOL&logo=linkedin&label=&color=DAA1FA&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Guns.LOL&logo=linkedin&label=&color=DAA1FA&logoColor=white&labelColor=&style=flat" height="80" alt="linkedin logo"  />
   </a>
   <a href="https://www.tiktok.com/@..m..o..n..s..t..e..r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=itch&label=&color=130409&logoColor=white&labelColor=&style=flat" height="35" alt="itch logo"  />
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=itch&label=&color=130409&logoColor=white&labelColor=&style=flat" height="80" alt="itch logo"  />
   </a>
 </div>
 
