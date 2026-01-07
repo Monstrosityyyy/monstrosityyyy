@@ -7,9 +7,6 @@
 <br clear="both">
 
 <h3 align="center">Tools/Programs/Launguages I Use 👇</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
