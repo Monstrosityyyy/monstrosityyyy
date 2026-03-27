@@ -38,13 +38,13 @@
   <a href="mailto:github@msxa.se" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=0A48F4&logoColor=white&labelColor=FF1920&style=flat" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/Hannes_Behmer" target="_blank">
+  <a href="https://x.com/12h9oi8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%F0%9D%95%8F&logo=twitter&label=&color=3B3B3B&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://guns.lol/monstrosityyy" target="_blank">
+  <a href="https://guns.lol/notgifxs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Guns.LOL&logo=linkedin&label=&color=DAA1FA&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.tiktok.com/@..m..o..n..s..t..e..r" target="_blank">
+  <a href="https://www.tiktok.com/@lv_0ki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=itch&label=&color=130409&logoColor=white&labelColor=&style=flat" height="30" alt="itch logo"  />
   </a>
 </div>
